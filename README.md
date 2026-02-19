@@ -17,14 +17,30 @@
 
 ---
 
-## 🎓 Education
-<p  align="center">
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| MCA | Institute of Engineering and Technology, Lucknow | 2021–2023 | CGPA: 8.6 / 10 |
-| B.Sc | Gandhi Faiz-E-Aam PG College, Shahjahanpur | 2017–2020 | 64% |
-</p>
----
+<h2 align="center">🎓 Education</h2>
+
+<table align="center">
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Year</th>
+<th>Score</th>
+</tr>
+<tr>
+<td>MCA</td>
+<td>Institute of Engineering and Technology, Lucknow</td>
+<td>2021–2023</td>
+<td>CGPA: 8.6 / 10</td>
+</tr>
+<tr>
+<td>B.Sc</td>
+<td>Gandhi Faiz-E-Aam PG College, Shahjahanpur</td>
+<td>2017–2020</td>
+<td>64%</td>
+</tr>
+</table>
+
+--
 
 ## 🛠 Tech Stack
 

@@ -7,7 +7,8 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+
 
 💼 Backend Developer with 1+ years of experience building scalable and secure web applications  
 🔐 Specialized in Authentication, Authorization & Role-Based Access Control  
@@ -42,7 +43,8 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center"> 🛠 Tech Stac</h2>
+
 
 <p align="center">
 
@@ -57,7 +59,8 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center"> 🚀 Featured Projects</h2>
+
 
 ### 🔹 Skoodos Bridge
 Laravel-based educational search platform  
@@ -79,19 +82,20 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity</h2>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight&hide_border=true&ring=36F76B&fire=36F76B&currStreakLabel=36F76B" height="150"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8960&bg_color=0d1117&color=36F76B&line=36F76B&point=36F76B&hide_border=true&area=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight&hide_border=true&ring=36F76B&fire=36F76B&currStreakLabel=36F76B" height="160"/>
 </p>
+
 
 ---
 
-## 🌱 Currently Working On
+<h2 align="center">🌱 Currently Working On</h2>
+
 
 - Improving backend performance & indexing strategies  
 - Building scalable REST API architectures  
@@ -99,7 +103,8 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-pal-5b194623b">

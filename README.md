@@ -23,12 +23,10 @@
 
 ## 🎓 Education
 
-🎓 **Master of Computer Applications (MCA)**  
-Institute of Engineering and Technology, Lucknow  
-CGPA: 8.6 / 10  
-
-🎓 **Bachelor of Science (B.Sc)**  
-Gandhi Faiz-E-Aam PG College, Shahjahanpur  
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| MCA | Institute of Engineering and Technology, Lucknow | 2021–2023 | CGPA: 8.6 / 10 |
+| B.Sc | Gandhi Faiz-E-Aam PG College, Shahjahanpur | 2017–2020 | 64% |
 
 ---
 
@@ -37,11 +35,11 @@ Gandhi Faiz-E-Aam PG College, Shahjahanpur
 <p align="center">
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-36F76B?style=for-the-badge&logo=laravel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Yii2-36F76B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-36F76B?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_API-36F76B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-36F76B?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yii2-008CC1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
@@ -69,22 +67,22 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight&hide_border=true&ring=36F76B&fire=36F76B&currStreakLabel=36F76B" height="150"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8960&theme=tokyo-night&hide_border=true&color=36F76B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8960&bg_color=0d1117&color=36F76B&line=36F76B&point=36F76B&hide_border=true&area=true" height="200"/>
 </p>
 
 ---
 
 ## 🌱 Currently Working On
 
-- Improving backend performance & database indexing strategies  
-- Building scalable API architectures  
+- Improving backend performance & indexing strategies  
+- Building scalable REST API architectures  
 - Exploring advanced Laravel ecosystem tools  
 
 ---
@@ -93,10 +91,10 @@ Role-based Blog Management System (Laravel)
 
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-pal-5b194623b">
-    <img src="https://img.shields.io/badge/LinkedIn-36F76B?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abhinavpal8960@gmail.com">
-    <img src="https://img.shields.io/badge/Email-36F76B?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 

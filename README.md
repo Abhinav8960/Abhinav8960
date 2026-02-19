@@ -2,7 +2,7 @@
 <h3 align="center">🚀 PHP Backend Developer | Laravel | Yii2 | REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36F76B&center=true&vCenter=true&width=500&lines=Laravel+Developer;Worked+on+REST+APIs;Backend+Problem+Solver;Experienced+in+MVC+Architecture+Expert;Performance+Optimization+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36F76B&center=true&vCenter=true&width=500&lines=Laravel+Developer;Worked+on+REST+APIs;Backend+Problem+Solver;Experienced+in+MVC+Architecture;Performance+Optimization+Focused" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center"> 🛠 Tech Stac</h2>
+<h2 align="center"> 🛠 Tech Stack</h2>
 
 
 <p align="center">
@@ -86,7 +86,7 @@ Role-based Blog Management System (Laravel)
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav8960&show_icons=true&theme=dark&hide_border=true" height="170"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight&hide_border=true&ring=36F76B&fire=36F76B&currStreakLabel=36F76B" height="160"/>
 </p>

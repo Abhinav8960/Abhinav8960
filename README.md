@@ -108,4 +108,8 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-<h3 align="center">⭐ Building secure, scalable & performance-driven backend systems ⭐</h3>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Secure%20%7C%20Scalable%20%7C%20Performance--Driven-36F76B?style=for-the-badge" />
+</p>

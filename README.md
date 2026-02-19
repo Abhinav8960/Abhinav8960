@@ -1,72 +1,80 @@
-# 👋 Hi, I'm Abhinav Kumar Pal
+<h1 align="center">Hi 👋, I'm Abhinav Kumar Pal</h1>
+<h3 align="center">🚀 PHP Backend Developer | Laravel | Yii2 | REST APIs</h3>
 
-🚀 PHP Backend Developer | Laravel | Yii2 | REST APIs  
-📍 India  
-💼 1+ Years Experience in Backend Development  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Laravel+Developer;REST+API+Specialist;Backend+Problem+Solver;MVC+Architecture+Expert" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate PHP Backend Developer with hands-on experience in building scalable and secure web applications using Laravel and Yii2.  
-
-I specialize in:
-- 🔐 Authentication & Authorization Systems  
-- 🔄 RESTful API Development  
-- 🗄️ MySQL Query Optimization & Indexing  
-- ⚡ Performance Optimization  
-- 🧩 MVC Architecture & Clean Code Practices  
-
-I enjoy solving backend challenges and building production-ready systems.
+💼 1+ Years of experience building scalable backend systems  
+🔐 Strong in Authentication & Authorization  
+⚡ Focused on Performance Optimization & Clean Code  
+🗄️ Experienced in MySQL Query Optimization & Indexing  
+📦 Passionate about building secure RESTful APIs  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Backend:** PHP, Laravel, Yii2  
-**Database:** MySQL, MongoDB  
-**Frontend:** HTML, CSS, JavaScript, AJAX, jQuery, Bootstrap  
-**Tools:** Git, GitHub, Postman, VS Code  
-**Other:** REST APIs, SEO Optimization, Firebase Cloud Messaging  
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yii2-008CC1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 Skoodos Bridge
-Educational Search Platform built with Laravel  
-- Advanced filtering & search functionality  
-- Optimized MySQL queries for better performance  
-- AJAX-based dynamic UI  
+Laravel-based educational search platform  
+✔ Advanced filtering & optimized queries  
+✔ AJAX-powered dynamic UI  
+✔ Performance-focused backend architecture  
 
 ### 🔹 WalkIntoTheWild
-Safari Booking Platform built using Yii2  
-- RESTful APIs for booking & payment workflows  
-- Firebase notifications integration  
-- Admin dashboard with analytics  
+Yii2-based safari booking platform  
+✔ REST APIs for booking & payments  
+✔ Firebase Cloud Messaging integration  
+✔ Admin analytics dashboard  
 
 ### 🔹 BlogSpot
-Role-based Blog Management System (Laravel)  
-- Secure authentication system  
-- CRUD operations with optimized queries  
-- AJAX-based frontend performance enhancement  
+Role-based blog management system  
+✔ Secure authentication  
+✔ CRUD operations  
+✔ Optimized frontend performance  
 
 ---
 
-## 📈 What I Focus On
+## 📊 GitHub Stats
 
-✔ Writing clean & maintainable backend code  
-✔ Database performance optimization  
-✔ Secure authentication systems  
-✔ Scalable API development  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8960&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav8960&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/abhinav-pal-5b194623b  
-📧 Email: abhinavpal8960@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/abhinav-pal-5b194623b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhinavpal8960@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ *"Building secure, scalable and performance-driven backend systems."*

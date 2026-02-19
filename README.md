@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36F76B&center=true&vCenter=true&width=500&lines=Laravel+Developer;REST+API+Specialist;Backend+Problem+Solver;MVC+Architecture+Expert;Performance+Optimization+Focused" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav8960&label=Profile%20views&color=36F76B&style=for-the-badge" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -22,12 +18,12 @@
 ---
 
 ## 🎓 Education
-
+<p  align="center">
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | MCA | Institute of Engineering and Technology, Lucknow | 2021–2023 | CGPA: 8.6 / 10 |
 | B.Sc | Gandhi Faiz-E-Aam PG College, Shahjahanpur | 2017–2020 | 64% |
-
+</p>
 ---
 
 ## 🛠 Tech Stack

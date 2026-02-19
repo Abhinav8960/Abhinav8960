@@ -107,9 +107,9 @@ Role-based Blog Management System (Laravel)
 </p>
 
 ---
-
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-Secure%20%7C%20Scalable%20%7C%20Performance--Driven-36F76B?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2937&height=70&section=header&text=Secure%20•%20Scalable%20•%20Performance%20Focused&fontSize=20&fontColor=ffffff" />
 </p>
+

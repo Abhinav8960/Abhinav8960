@@ -2,7 +2,7 @@
 <h3 align="center">🚀 PHP Backend Developer | Laravel | Yii2 | REST APIs</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Laravel+Developer;REST+API+Specialist;Backend+Problem+Solver;MVC+Architecture+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36F76B&lines=Laravel+Developer;REST+APIs;Backend+Problem+Solver;Experienced in MVC+Architecture" />
 </p>
 
 ---

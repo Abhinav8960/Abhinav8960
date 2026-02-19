@@ -11,5 +11,5 @@ PHP | Laravel | MySQL | REST | Git
 - **Multi-Step Registration System** – Validations, file uploads
 
 ## 📫 Contact
-LinkedIn: https://linkedin.com/in/abhinav-pal-5b194623b/
+LinkedIn: https://linkedin.com/in/abhinav-pal-5b194623b
 Email: abhinavpal8960@gmail.com

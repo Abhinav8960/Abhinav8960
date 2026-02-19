@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar Pal</h1>
+<h1 align="center">Hi, I'm Abhinav Kumar Pal</h1>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36F76B&center=true&vCenter=true&width=500&lines=PHP+Laravel+Developer;Worked+on+Laravel+Yii2+REST+APIs;Backend+Problem+Solver;Experienced+in+MVC+Architecture;Performance+Optimization+Focused" />
@@ -6,8 +6,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-
+<h2 align="center">💼 Professional Summary</h2>
 
 💼 Backend Developer with 1+ years of experience building scalable and secure web applications  
 🔐 Specialized in Authentication, Authorization & Role-Based Access Control  
@@ -17,7 +16,7 @@
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">🎓 Academic Background</h2>
 
 <table align="center">
 <tr>
@@ -42,24 +41,20 @@
 
 ---
 
-<h2 align="center"> 🛠 Tech Stack</h2>
-
+<h2 align="center">🧰 Technical Stack</h2>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yii2-008CC1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 </p>
 
 ---
 
-<h2 align="center"> 🚀 Featured Projects</h2>
-
+<h2 align="center">📌 Featured Projects</h2>
 
 ### 🔹 Skoodos Bridge
 Laravel-based educational search platform  
@@ -81,8 +76,7 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
-
+<h2 align="center">📈 Development Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav8960&show_icons=true&theme=dark&hide_border=true" height="170"/>
@@ -93,8 +87,7 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-<h2 align="center">🌱 Currently Working On</h2>
-
+<h2 align="center">🚀 Currently Exploring</h2>
 
 - Improving backend performance & indexing strategies  
 - Building scalable REST API architectures  
@@ -102,8 +95,7 @@ Role-based Blog Management System (Laravel)
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
-
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-pal-5b194623b">
